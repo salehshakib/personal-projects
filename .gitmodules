@@ -1,0 +1,3 @@
+[submodule "Vite-react-eslint-prettier-husky-setup"]
+	path = Vite-react-eslint-prettier-husky-setup
+	url = https://github.com/salehshakib/personal-projects.git
